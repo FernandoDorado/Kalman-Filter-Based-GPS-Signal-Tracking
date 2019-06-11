@@ -3,4 +3,4 @@ Kalman filter is an optimal estimator, i.e. infers parameters of interest from i
 
 ![picture](ses1.png)
 
-![picture](k1.png)
+![picture](k1.jpg)
